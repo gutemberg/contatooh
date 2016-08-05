@@ -1,0 +1,28 @@
+{
+  "name": "cap-09",
+  "description": "Não esqueça de executar no console os comandos:",
+  "main": "consulta.js",
+  "authors": [
+    "Gutemberg note <Gutemberg note>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.5.8",
+    "angular-route": "^1.5.8",
+    "angular-resource": "^1.5.8"
+  },
+  "devDependencies": {
+    "angular-mocks": "^1.5.8",
+    "jasmine-core": "^2.4.1"
+  }
+}
